@@ -1,1 +1,1 @@
-# useragents
+# UserAgents RegExes as YAML
